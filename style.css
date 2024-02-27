@@ -21,56 +21,56 @@ body::-webkit-scrollbar-thumb{
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-Black.ttf);
+    src: url(Assests/Montserrat/Montserrat-Black.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-Bold.ttf);
+    src: url(Assests/Montserrat/Montserrat-Bold.ttf);
     font-weight: 800;
 
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-SemiBold.ttf);
+    src: url(Assests/Montserrat/Montserrat-SemiBold.ttf);
     font-weight: 700;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-ExtraBold.ttf);
+    src: url(Assests/Montserrat/Montserrat-ExtraBold.ttf);
     font-weight: 900;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-Medium.ttf);
+    src: url(Assests/Montserrat/Montserrat-Medium.ttf);
     font-weight: 600;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-Regular.ttf);
+    src: url(Assests/Montserrat/Montserrat-Regular.ttf);
     font-weight: 500;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-ExtraLight.ttf);
+    src: url(Assests/Montserrat/Montserrat-ExtraLight.ttf);
     font-weight: 200;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-Light.ttf);
+    src: url(Assests/Montserrat/Montserrat-Light.ttf);
     font-weight: 300;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url(sidcup-family-golf-main/Assests/Montserrat/Montserrat-Thin.ttf);
+    src: url(Assests/Montserrat/Montserrat-Thin.ttf);
     font-weight: 100;
 }
 
